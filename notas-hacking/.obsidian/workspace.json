@@ -22,16 +22,21 @@
             }
           },
           {
-            "id": "338c392d84ad0c73",
+            "id": "b5cf2ffe07cf00ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/2Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2Warm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,9 +182,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eebca2ba5460516",
+  "active": "b5cf2ffe07cf00ab",
   "lastOpenFiles": [
+    "picoCTF/Bases.md",
+    "picoCTF/First Grep.md",
+    "picoCTF/Warmed Up.md",
+    "picoCTF/Glitch Cat.md",
+    "picoCTF/Lets Warm Up.md",
+    "picoCTF/Nice netcat....md",
+    "picoCTF/Obedient Cat.md",
+    "picoCTF/what's a net cat.md",
+    "images/Pasted image 20250213002337.png",
+    "images/Pasted image 20250213001425.png",
+    "images/Pasted image 20250212235905.png",
+    "images/Pasted image 20250212235453.png",
+    "images/Pasted image 20250212234627.png",
+    "picoCTF/Plumbing.md",
+    "images/Pasted image 20250212233554.png",
+    "images/Pasted image 20250212232925.png",
+    "images/Pasted image 20250212230818.png",
+    "images/Pasted image 20250212222314.png",
+    "images/Pasted image 20250212221652.png",
+    "picoCTF/2Warm.md",
     "Welcome.md",
-    "README.md"
+    "images",
+    "README.md",
+    "picoCTF"
   ]
 }
