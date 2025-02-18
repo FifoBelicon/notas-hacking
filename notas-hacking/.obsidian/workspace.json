@@ -22,21 +22,105 @@
             }
           },
           {
-            "id": "b5cf2ffe07cf00ab",
+            "id": "ed26d2557c62e5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2Warm.md",
+                "file": "picoCTF/repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2Warm"
+              "title": "repetitions"
+            }
+          },
+          {
+            "id": "6e254af8eee8b61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static ain't always noise"
+            }
+          },
+          {
+            "id": "b4705c27f47adf27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/strings it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings it"
+            }
+          },
+          {
+            "id": "80658f95d160605f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tab, Tab, Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tab, Tab, Attack"
+            }
+          },
+          {
+            "id": "1862d6b5b053d372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Useless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Useless"
+            }
+          },
+          {
+            "id": "317cb10de8ca70ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Based.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Based"
+            }
+          },
+          {
+            "id": "55488ce65d28636a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magikarp Ground Mission"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -55,7 +139,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,8 +267,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5cf2ffe07cf00ab",
+  "active": "341ed114115968e7",
   "lastOpenFiles": [
+    "picoCTF/Useless.md",
+    "picoCTF/Tab, Tab, Attack.md",
+    "picoCTF/Magikarp Ground Mission.md",
+    "picoCTF/Based.md",
+    "picoCTF/strings it.md",
+    "picoCTF/Static ain't always noise.md",
+    "picoCTF/repetitions.md",
+    "README.md",
+    "picoCTF/Big Zip.md",
+    "picoCTF/First Find.md",
+    "picoCTF/2Warm.md",
     "picoCTF/Bases.md",
     "picoCTF/First Grep.md",
     "picoCTF/Warmed Up.md",
@@ -203,10 +299,8 @@
     "images/Pasted image 20250212230818.png",
     "images/Pasted image 20250212222314.png",
     "images/Pasted image 20250212221652.png",
-    "picoCTF/2Warm.md",
     "Welcome.md",
     "images",
-    "README.md",
     "picoCTF"
   ]
 }
