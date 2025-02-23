@@ -4,151 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "ca820d91c6c4cf2c",
+        "id": "43c2d23a21c62711",
         "type": "tabs",
         "children": [
           {
-            "id": "9eebca2ba5460516",
+            "id": "88ccc8cc8ebadf3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Binary Search"
             }
           },
           {
-            "id": "0855c8e069afb2d9",
+            "id": "746d1a4e41c6d75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Codebook.md",
+                "file": "picoCTF/binhexa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codebook"
+              "title": "binhexa"
             }
           },
           {
-            "id": "710c8ddd0929d235",
+            "id": "d911a8aa29aa433c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/convertme.py.md",
+                "file": "picoCTF/Blame Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "convertme.py"
+              "title": "Blame Game"
             }
           },
           {
-            "id": "52f1c50537d82798",
+            "id": "2422e391ab5a29fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/fixme1.py.md",
+                "file": "picoCTF/Collaborative Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fixme1.py"
+              "title": "Collaborative Development"
             }
           },
           {
-            "id": "e217a27c9b3bfb95",
+            "id": "cf96697dbec174c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/fixme2.py.md",
+                "file": "picoCTF/Time Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fixme2.py"
+              "title": "Time Machine"
             }
           },
           {
-            "id": "26413bf194ab9bcd",
+            "id": "80991b05d8fe4298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PW Crack 1.md",
+                "file": "picoCTF/ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PW Crack 1"
+              "title": "ASCII Numbers"
             }
           },
           {
-            "id": "cfd3ae6ccb5261df",
+            "id": "1d34f8898593a5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PW Crack 2.md",
+                "file": "picoCTF/chrono.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PW Crack 2"
+              "title": "chrono"
             }
           },
           {
-            "id": "c927657500ea8b2c",
+            "id": "07d1852904cc7d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/runme.py.md",
+                "file": "picoCTF/Permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "runme.py"
+              "title": "Permissions"
             }
           },
           {
-            "id": "86466342a676e01b",
+            "id": "ac12f78af783fc2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Super SSH.md",
+                "file": "picoCTF/Special.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super SSH"
-            }
-          },
-          {
-            "id": "370772bdd8ef538e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/PW Crack 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PW Crack 3"
+              "title": "Special"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +153,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -220,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Blame Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Blame Game"
             }
           },
           {
@@ -294,48 +281,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "370772bdd8ef538e",
+  "active": "341ed114115968e7",
   "lastOpenFiles": [
-    "notas-hacking/notas-hacking/picoCTF/what's a net cat.md",
-    "notas-hacking/notas-hacking/picoCTF/strings it.md",
-    "notas-hacking/notas-hacking/picoCTF/repetitions.md",
-    "notas-hacking/notas-hacking/picoCTF/Warmed Up.md",
-    "notas-hacking/notas-hacking/picoCTF/Useless.md",
-    "notas-hacking/notas-hacking/picoCTF/Tab, Tab, Attack.md",
-    "notas-hacking/notas-hacking/picoCTF/Static ain't always noise.md",
-    "notas-hacking/notas-hacking/picoCTF/Plumbing.md",
-    "notas-hacking/notas-hacking/picoCTF/Obedient Cat.md",
-    "notas-hacking/notas-hacking/picoCTF/Nice netcat....md",
-    "notas-hacking/notas-hacking/picoCTF/Magikarp Ground Mission.md",
-    "notas-hacking/notas-hacking/picoCTF/Lets Warm Up.md",
-    "notas-hacking/notas-hacking/picoCTF/Glitch Cat.md",
-    "notas-hacking/notas-hacking/picoCTF/First Grep.md",
-    "notas-hacking/notas-hacking/picoCTF/First Find.md",
-    "notas-hacking/notas-hacking/picoCTF/Big Zip.md",
-    "notas-hacking/notas-hacking/picoCTF/Bases.md",
-    "notas-hacking/notas-hacking/picoCTF/Based.md",
-    "notas-hacking/notas-hacking/picoCTF/2Warm.md",
-    "notas-hacking/notas-hacking/picoCTF",
-    "notas-hacking/notas-hacking/images/Pasted image 20250213002337.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250213001425.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212235905.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212235453.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212234627.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212233554.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212232925.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212230818.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212222314.png",
-    "notas-hacking/notas-hacking/images/Pasted image 20250212221652.png",
-    "notas-hacking/notas-hacking/images",
-    "notas-hacking/notas-hacking/Welcome.md",
-    "notas-hacking/notas-hacking/README.md",
-    "notas-hacking/notas-hacking",
-    "notas-hacking",
+    "picoCTF/Permissions.md",
+    "picoCTF/Special.md",
+    "picoCTF/chrono.md",
+    "picoCTF/ASCII Numbers.md",
+    "picoCTF/Time Machine.md",
+    "picoCTF/Collaborative Development.md",
+    "picoCTF/Blame Game.md",
+    "picoCTF/binhexa.md",
+    "picoCTF/Binary Search.md",
+    "picoCTF/Commitment Issues.md",
+    "README.md",
+    "picoCTF/repetitions.md",
+    "picoCTF/Static ain't always noise.md",
+    "picoCTF/strings it.md",
+    "picoCTF/Tab, Tab, Attack.md",
+    "picoCTF/Useless.md",
+    "picoCTF/Based.md",
+    "picoCTF/Magikarp Ground Mission.md",
+    "picoCTF/runme.py.md",
+    "picoCTF/fixme2.py.md",
+    "picoCTF/fixme1.py.md",
+    "picoCTF/convertme.py.md",
+    "picoCTF/Super SSH.md",
     "picoCTF/Serpentine.md",
     "picoCTF/PW Crack 3.md",
-    "picoCTF/Super SSH.md",
-    "picoCTF/runme.py.md",
     "picoCTF/PW Crack 2.md",
+    "images/Pasted image 20250213002337.png",
+    "images/Pasted image 20250213001425.png",
+    "images/Pasted image 20250212235905.png",
+    "images/Pasted image 20250212235453.png",
+    "images/Pasted image 20250212234627.png",
+    "images/Pasted image 20250212233554.png",
+    "images/Pasted image 20250212232925.png",
+    "images/Pasted image 20250212230818.png",
+    "images/Pasted image 20250212222314.png",
+    "images/Pasted image 20250212221652.png",
     "images",
     "picoCTF"
   ]
