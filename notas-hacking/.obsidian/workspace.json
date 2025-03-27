@@ -8,217 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88ccc8cc8ebadf3f",
+            "id": "850015b2ee402522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Binary Search.md",
+                "file": "Get aHead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "Get aHead"
             }
           },
           {
-            "id": "746d1a4e41c6d75e",
+            "id": "97e4bb933548f9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/binhexa.md",
+                "file": "Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binhexa"
-            }
-          },
-          {
-            "id": "d911a8aa29aa433c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Blame Game.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blame Game"
-            }
-          },
-          {
-            "id": "2422e391ab5a29fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Collaborative Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collaborative Development"
-            }
-          },
-          {
-            "id": "cf96697dbec174c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Time Machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time Machine"
-            }
-          },
-          {
-            "id": "80991b05d8fe4298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASCII Numbers"
-            }
-          },
-          {
-            "id": "1d34f8898593a5d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/chrono.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chrono"
-            }
-          },
-          {
-            "id": "07d1852904cc7d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Permissions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Permissions"
-            }
-          },
-          {
-            "id": "ac12f78af783fc2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Special.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Special"
-            }
-          },
-          {
-            "id": "b8d208756dae52ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dont-use-client-side"
-            }
-          },
-          {
-            "id": "eaa714e16fa06675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insp3ct0r"
-            }
-          },
-          {
-            "id": "1b27009c2c9434d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logon"
-            }
-          },
-          {
-            "id": "4c4cf94910f63d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "where are the robots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "where are the robots"
-            }
-          },
-          {
-            "id": "6d2bb72fd07ee7b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Client-side-again"
-            }
-          },
-          {
-            "id": "608706da0984c93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/picobrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "picobrowser"
+              "title": "Scavenger Hunt"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -365,23 +183,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "341ed114115968e7",
+  "active": "97e4bb933548f9df",
   "lastOpenFiles": [
+    "Get aHead.md",
+    "Scavenger Hunt.md",
+    "Cookies.md",
+    "picoCTF/Binary Search.md",
+    "picoCTF/binhexa.md",
+    "picoCTF/Blame Game.md",
+    "picoCTF/Collaborative Development.md",
+    "picoCTF/Time Machine.md",
+    "picoCTF/ASCII Numbers.md",
+    "picoCTF/chrono.md",
+    "picoCTF/Permissions.md",
+    "picoCTF/Special.md",
+    "picoCTF/dont-use-client-side.md",
+    "picoCTF/Insp3ct0r.md",
+    "picoCTF/Logon.md",
+    "where are the robots.md",
     "picoCTF/Client-side-again.md",
     "picoCTF/picobrowser.md",
-    "where are the robots.md",
-    "picoCTF/Logon.md",
-    "picoCTF/Insp3ct0r.md",
-    "picoCTF/dont-use-client-side.md",
-    "picoCTF/Special.md",
-    "picoCTF/Permissions.md",
-    "picoCTF/chrono.md",
-    "picoCTF/ASCII Numbers.md",
-    "picoCTF/Time Machine.md",
-    "picoCTF/Collaborative Development.md",
-    "picoCTF/Blame Game.md",
-    "picoCTF/binhexa.md",
-    "picoCTF/Binary Search.md",
     "picoCTF/Commitment Issues.md",
     "README.md",
     "picoCTF/repetitions.md",
@@ -390,9 +211,6 @@
     "picoCTF/Tab, Tab, Attack.md",
     "picoCTF/Useless.md",
     "picoCTF/Based.md",
-    "picoCTF/Magikarp Ground Mission.md",
-    "picoCTF/runme.py.md",
-    "picoCTF/fixme2.py.md",
     "images/Pasted image 20250213002337.png",
     "images/Pasted image 20250213001425.png",
     "images/Pasted image 20250212235905.png",
