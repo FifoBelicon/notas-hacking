@@ -4,81 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "43c2d23a21c62711",
+        "id": "adbf59beef33f164",
         "type": "tabs",
         "children": [
           {
-            "id": "850015b2ee402522",
+            "id": "d517e99ae771628d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Get aHead.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get aHead"
+              "title": "Welcome"
             }
           },
           {
-            "id": "97e4bb933548f9df",
+            "id": "c34b7ccb8a2d67a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "picoCTF/Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "Most Cookies"
             }
           },
           {
-            "id": "24644b46a66c5cb0",
+            "id": "d653e742998f919b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irish-Name-Repo 1.md",
+                "file": "picoCTF/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
+              "title": "Trickster"
             }
           },
           {
-            "id": "4b0184cbea83e854",
+            "id": "ec08ea7f66ac5bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "More SQLi.md",
+                "file": "picoCTF/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
-            }
-          },
-          {
-            "id": "85221971dcc151ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "SOAP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,14 +211,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85221971dcc151ee",
+  "active": "341ed114115968e7",
   "lastOpenFiles": [
-    "More SQLi.md",
-    "JaWT Scratchpad.md",
-    "Irish-Name-Repo 1.md",
-    "Scavenger Hunt.md",
-    "Get aHead.md",
-    "Cookies.md",
+    "images/flagSOAP.png",
+    "picoCTF/Trickster.md",
+    "picoCTF/SOAP.md",
+    "images/flagTrickster.png",
+    "picoCTF/Most Cookies.md",
+    "images/flagCookies.png",
+    "picoCTF/MatchTheRegex.md",
+    "images/respostMatchRegex.png",
+    "Welcome.md",
+    "picoCTF/Get aHead.md",
+    "picoCTF/Scavenger Hunt.md",
+    "picoCTF/Irish-Name-Repo 1.md",
+    "picoCTF/More SQLi.md",
+    "picoCTF/JaWT Scratchpad.md",
+    "picoCTF/Cookies.md",
     "picoCTF/Binary Search.md",
     "picoCTF/binhexa.md",
     "picoCTF/Blame Game.md",
@@ -245,14 +240,8 @@
     "picoCTF/dont-use-client-side.md",
     "picoCTF/Insp3ct0r.md",
     "picoCTF/Logon.md",
-    "where are the robots.md",
+    "picoCTF/where are the robots.md",
     "picoCTF/Client-side-again.md",
-    "picoCTF/picobrowser.md",
-    "picoCTF/Commitment Issues.md",
-    "README.md",
-    "picoCTF/repetitions.md",
-    "picoCTF/Static ain't always noise.md",
-    "picoCTF/strings it.md",
     "images/Pasted image 20250213002337.png",
     "images/Pasted image 20250213001425.png",
     "images/Pasted image 20250212235905.png",
@@ -260,9 +249,6 @@
     "images/Pasted image 20250212234627.png",
     "images/Pasted image 20250212233554.png",
     "images/Pasted image 20250212232925.png",
-    "images/Pasted image 20250212230818.png",
-    "images/Pasted image 20250212222314.png",
-    "images/Pasted image 20250212221652.png",
     "images",
     "picoCTF"
   ]
