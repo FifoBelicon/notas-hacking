@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d95d765bafffd51e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53b8c9f994822ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c911e9c7d93aaf81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "024b7466f79628df",
+    "type": "split",
+    "children": [
+      {
+        "id": "28982d3421f19cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e862c9369d411f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e54338890b4fe103",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7314e9a058ae48d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cda66b5269b32dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f644232ee79b24a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3766c722a499105",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a203668d874fe613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f3d372b3f415d025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b06a7176e4cd2b08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c911e9c7d93aaf81",
+  "lastOpenFiles": [
+    "notas-hacking/picoCTF/Actividades/Magikarp Ground Mission.md",
+    "SSTI2.md",
+    "notas-hacking/picoCTF/Examen/PrimerParcial/Web/SSTI2.md",
+    "notas-hacking/picoCTF/Actividades/where are the robots.md",
+    "notas-hacking/picoCTF/Actividades/what's a net cat.md",
+    "notas-hacking/picoCTF/Actividades/strings it.md",
+    "notas-hacking/picoCTF/Actividades/runme.py.md",
+    "notas-hacking/picoCTF/Actividades/repetitions.md",
+    "notas-hacking/picoCTF/Actividades/picobrowser.md",
+    "notas-hacking/picoCTF/Actividades/fixme2.py.md",
+    "notas-hacking/picoCTF/Actividades/fixme1.py.md",
+    "notas-hacking/picoCTF/Actividades/dont-use-client-side.md",
+    "notas-hacking/picoCTF/Actividades/convertme.py.md",
+    "notas-hacking/picoCTF/Actividades/chrono.md",
+    "notas-hacking/picoCTF/Actividades/binhexa.md",
+    "notas-hacking/picoCTF/Actividades/Warmed Up.md",
+    "notas-hacking/picoCTF/Actividades/Useless.md",
+    "notas-hacking/picoCTF/Actividades/Trickster.md",
+    "notas-hacking/picoCTF/Actividades/Time Machine.md",
+    "notas-hacking/picoCTF/Actividades/Tab, Tab, Attack.md",
+    "notas-hacking/picoCTF/Actividades/Super SSH.md",
+    "notas-hacking/picoCTF/Actividades/Static ain't always noise.md",
+    "notas-hacking/picoCTF/Actividades/Special.md",
+    "notas-hacking/picoCTF/Actividades/Serpentine.md",
+    "notas-hacking/picoCTF/Actividades/Scavenger Hunt.md",
+    "notas-hacking/picoCTF/Actividades/SOAP.md",
+    "notas-hacking/picoCTF/Actividades",
+    "notas-hacking/picoCTF/General Skills",
+    "notas-hacking/picoCTF/Examen/PrimerParcial/General Skills",
+    "notas-hacking/picoCTF/Examen/PrimerParcial/Web",
+    "notas-hacking/picoCTF/Examen/PrimerParcial",
+    "notas-hacking/picoCTF/Tarea 2 Web",
+    "notas-hacking/picoCTF/Forensics",
+    "notas-hacking/picoCTF/Examen",
+    "notas-hacking/picoCTF",
+    "notas-hacking/images/picoCTF/Examen/PrimerParcial/Web"
+  ]
+}
