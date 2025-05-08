@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust fixme 3.md",
+                "file": "picoCTF/Forensics 4/Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust fixme 3"
+              "title": "Operation Oni"
             }
           }
         ],
@@ -241,6 +241,13 @@
   },
   "active": "330447e305b57cb5",
   "lastOpenFiles": [
+    "picoCTF/Forensics 4/Operation Orchid.md",
+    "picoCTF/Forensics 4/Operation Oni.md",
+    "picoCTF/Forensics 4/Sleuthkit Apprentice.md",
+    "picoCTF/Forensics 4/Sleuthkit Intro.md",
+    "picoCTF/Forensics 4/Disk, disk, sleuth!.md",
+    "picoCTF/Forensics 4/Milkslap.md",
+    "picoCTF/Forensics 4",
     "Rust fixme 2.md",
     "Rust fixme 3.md",
     "Rust fixme 1.md",
@@ -265,12 +272,6 @@
     "picoCTF/Tarea 2 Web/Unminify.md",
     "picoCTF/Tarea 2 Web/Secrets.md",
     "picoCTF/Tarea 2 Web/SQLiLite.md",
-    "picoCTF/Tarea 2 Web/Roboto Sans.md",
-    "picoCTF/Tarea 2 Web/Power Cookies.md",
-    "picoCTF/Tarea 2 Web/Local Authority.md",
-    "picoCTF/Tarea 2 Web/IntroToBurp.md",
-    "picoCTF/Tarea 2 Web/Inspect HTML.md",
-    "SQLiLite.md",
     "images/outputsqli.png",
     "images/secretimage.png",
     "images/flagWebDecode.png",
