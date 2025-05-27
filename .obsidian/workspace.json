@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas-hacking/picoCTF/Tarea 3 - Forensic/hideme.md",
+                "file": "notas-hacking/picoCTF/Crypto 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hideme"
+              "title": "rsa-pop-quiz"
             }
           }
         ],
@@ -182,12 +182,28 @@
   },
   "active": "97fcc53e6b65b06c",
   "lastOpenFiles": [
+    "notas-hacking/picoCTF/Crypto 3/b00tl3gRSA3.md",
+    "notas-hacking/picoCTF/Crypto 2/rsa-pop-quiz.md",
+    "notas-hacking/picoCTF/Crypto 2",
+    "notas-hacking/picoCTF/Crypto 3/b00tl3gRSA2.md",
+    "notas-hacking/picoCTF/Crypto 3/Mind your Ps and Qs.md",
+    "notas-hacking/picoCTF/Crypto 3/Mini RSA.md",
+    "notas-hacking/picoCTF/Crypto 1/waves over lambda.md",
+    "notas-hacking/picoCTF/Crypto 3",
+    "notas-hacking/picoCTF/Crypto 1/Easy 1.md",
+    "notas-hacking/picoCTF/Crypto 1/caesar.md",
+    "notas-hacking/picoCTF/Crypto 1/The Numbers.md",
+    "notas-hacking/picoCTF/Crypto 1/interencdec.md",
+    "notas-hacking/picoCTF/Crypto 1/13.md",
+    "notas-hacking/picoCTF/Crypto 1/Tapping.md",
+    "notas-hacking/picoCTF/Crypto 1/la cifra de.md",
+    "notas-hacking/picoCTF/Tarea 3 - Forensic/hideme.md",
+    "notas-hacking/picoCTF/Crypto 1",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Scan Surprise.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/CanYouSee.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Flags are stepic.md",
-    "notas-hacking/picoCTF/Tarea 3 - Forensic/hideme.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Information.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/RED.md",
     "notas-hacking/picoCTF/Tarea 3 - Forensic/Redaction gone wrong.md",
@@ -196,27 +212,11 @@
     "notas-hacking/picoCTF/Tarea 3 - Forensic",
     "notas-hacking/picoCTF/Forensic 3/WebNet0.md",
     "notas-hacking/picoCTF/Forensic 3/tunn3l v1s10n.md",
-    "notas-hacking/picoCTF/Forensic 3/Matryoshka doll.md",
-    "notas-hacking/picoCTF/Forensic 3/MacroHard WeakEdge.md",
     "notas-hacking/picoCTF/Forensic 3",
-    "notas-hacking/picoCTF/Actividades/Magikarp Ground Mission.md",
-    "SSTI2.md",
-    "notas-hacking/picoCTF/Examen/PrimerParcial/Web/SSTI2.md",
-    "notas-hacking/picoCTF/Actividades/where are the robots.md",
-    "notas-hacking/picoCTF/Actividades/what's a net cat.md",
-    "notas-hacking/picoCTF/Actividades/strings it.md",
-    "notas-hacking/picoCTF/Actividades/runme.py.md",
-    "notas-hacking/picoCTF/Actividades/repetitions.md",
-    "notas-hacking/picoCTF/Actividades/picobrowser.md",
-    "notas-hacking/picoCTF/Actividades/fixme2.py.md",
-    "notas-hacking/picoCTF/Actividades/fixme1.py.md",
     "notas-hacking/picoCTF/Actividades",
     "notas-hacking/picoCTF/General Skills",
     "notas-hacking/picoCTF/Examen/PrimerParcial/General Skills",
     "notas-hacking/picoCTF/Examen/PrimerParcial/Web",
-    "notas-hacking/picoCTF/Examen/PrimerParcial",
-    "notas-hacking/picoCTF/Tarea 2 Web",
-    "notas-hacking/picoCTF/Forensics",
-    "notas-hacking/picoCTF/Examen"
+    "notas-hacking/picoCTF/Examen/PrimerParcial"
   ]
 }
